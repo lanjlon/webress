@@ -1,5 +1,5 @@
 {
-  "name": "starchainmess",
+  "name": "webress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lanjlon/starchainmess"
+    "url": "https://github.com/lanjlon/webress"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lanjlon/starchainmess/issues"
+    "url": "https://github.com/lanjlon/webress/issues"
   },
-  "homepage": "https://github.com/lanjlon/starchainmess#readme",
+  "homepage": "https://github.com/lanjlon/webress#readme",
   "dependencies": {
     "starchain": "^1.0.3"
   }
