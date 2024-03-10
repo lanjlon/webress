@@ -1,5 +1,5 @@
 {
-  "name": "starchanout",
+  "name": "starchainmess",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e-jlion/starchanout.git"
+    "url": "https://github.com/lanjlon/starchainmess"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/e-jlion/starchanout/issues"
+    "url": "https://github.com/lanjlon/starchainmess/issues"
   },
-  "homepage": "https://github.com/e-jlion/starchanout.git#readme",
+  "homepage": "https://github.com/lanjlon/starchainmess#readme",
   "dependencies": {
-    "starchain": "^1.0.1"
+    "starchain": "^1.0.3"
   }
 }
